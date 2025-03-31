@@ -10,7 +10,7 @@ ALLA PROSSIMA ))
 *VITALIE*
 ### `Per clonare questo Branch usa il seguente comando:`  
 ```bash
-git clone -b vitalie https://github.com/vitooo3/Maze-Solverr.git nome_della_cartella
+git clone -b vitalie https://github.com/vitooo3/Maze-Solverr.git
 ```
 ### `DOWNLOAD DOCKER LINUX`
 Da terminale eseguire questo comando:
