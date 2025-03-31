@@ -8,8 +8,10 @@ a @eugenio , @marco ,@vitalie , il codice è in grado di risolvere i labirinti 7
 * il labirinto si trova nel file `labirinto1.txt`  
 ALLA PROSSIMA ))  
 *VITALIE*
-
-
+### `Per clonare questo Branch usa il seguente comando:`  
+```bash
+git clone -b vitalie https://github.com/vitooo3/Maze-Solverr.git nome_della_cartella
+```
 ### `DOWNLOAD DOCKER LINUX`
 Da terminale eseguire questo comando:
 ```bash
@@ -62,4 +64,3 @@ openssl genpkey -algorithm sphincsshake128fsimple
 ```bash
 openssl genpkey -algorithm rsa3072_sphincsshake128fsimple
 ```
-test
