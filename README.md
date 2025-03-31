@@ -7,7 +7,9 @@ a @eugenio , @marco ,@vitalie , il codice è in grado di risolvere i labirinti 7
 * IL codice è eseguibile con vscode  
 * il labirinto si trova nel file `labirinto1.txt`  
 ALLA PROSSIMA ))  
-*VITALIE*
+*VITALIE*  
+![Alt Text](https://i.postimg.cc/RhtfG0Bm/vito-logo.png)
+
 ### `Per clonare questo Branch usa il seguente comando:`  
 ```bash
 git clone -b vitalie https://github.com/vitooo3/Maze-Solverr.git
