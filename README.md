@@ -1,7 +1,7 @@
 # MAZE SOLVER 
 ## Questo labirinto si risolve da solo in linguaggio c
 
-
+![Alt Text](https://i.postimg.cc/xThtDsQ8/un-logo-con-scritto-marco-e-git-a-tema-informatica.jpg)
 
 Come scaricare docker linux kali  
 * Digitare il seguente comando nel terminale
