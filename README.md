@@ -33,7 +33,7 @@ Questo comando serve per vedere la lista completa:
 openssl list -signature-algorithms -provider oqsprovider
 ```
 #### Per generare una key si puo scegliare dal elenco un algoritmo a piacere:  
-`openssl genpkey -algorithm il_tuo_algoritmo`  
+##### `openssl genpkey -algorithm il_tuo_algoritmo`   
 
 #### *Ad esempio:*
 ```bash
